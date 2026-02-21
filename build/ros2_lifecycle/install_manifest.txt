@@ -1,0 +1,16 @@
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/lib/ros2_lifecycle/lifecycle_sensor
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ament_index/resource_index/package_run_dependencies/ros2_lifecycle
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ament_index/resource_index/parent_prefix_path/ros2_lifecycle
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ros2_lifecycle/environment/ament_prefix_path.sh
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ros2_lifecycle/environment/ament_prefix_path.dsv
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ros2_lifecycle/environment/path.sh
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ros2_lifecycle/environment/path.dsv
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ros2_lifecycle/local_setup.bash
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ros2_lifecycle/local_setup.sh
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ros2_lifecycle/local_setup.zsh
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ros2_lifecycle/local_setup.dsv
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ros2_lifecycle/package.dsv
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ament_index/resource_index/packages/ros2_lifecycle
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ros2_lifecycle/cmake/ros2_lifecycleConfig.cmake
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ros2_lifecycle/cmake/ros2_lifecycleConfig-version.cmake
+/home/amitha/ros2_ws/assignment-ros2-lifecycle-nodes-AmithaMahesh/install/ros2_lifecycle/share/ros2_lifecycle/package.xml
